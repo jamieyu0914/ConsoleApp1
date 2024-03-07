@@ -1,0 +1,15 @@
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/jamieyu/Documents/ConsoleApp1/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
